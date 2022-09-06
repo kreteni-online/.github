@@ -1,4 +1,4 @@
 # Kreteni.online
 *A group of independent creative people*
 
-![Kreteni.online logo](https://raw.githubusercontent.com/kreteni-online/.github/0baf9a87043b323fca9873db3e884d773c4c3194/logo/kreteni-horizontal-color.svg "Kreteni.online logo")
+![Kreteni.online logo](https://raw.githubusercontent.com/kreteni-online/.github/af891c9a63e1f2baa079dcd6030a5204ab286218/logo/kreteni-horizontal-white.svg "Kreteni.online logo")
